@@ -27,6 +27,11 @@ jobs:
         run: |
           git config --global user.name "Sin-Yejun"
           git config --global user.email "21900402@handong.ac.kr"
+
           git add img_url.txt
-          git commit -m "Update img_url.txt from weekly crawl" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update img_url.txt from weekly crawl"
+            git push
+          fi
