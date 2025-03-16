@@ -27,7 +27,7 @@ jobs:
         run: |
           git config --global user.name "Sin-Yejun"
           git config --global user.email "21900402@handong.ac.kr"
-
+          git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/Sin-Yejun/church_paper.git
           git add img_url.txt
           if git diff --cached --quiet; then
             echo "No changes to commit"
