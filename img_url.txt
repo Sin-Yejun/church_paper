@@ -1,21 +1,21 @@
 에러 발생: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/article/div/p[3]/img[1]"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x560a7dbba4ba <unknown>
-#1 0x560a7d623492 <unknown>
-#2 0x560a7d6789b6 <unknown>
-#3 0x560a7d678bf1 <unknown>
-#4 0x560a7d6c44d4 <unknown>
-#5 0x560a7d6c1700 <unknown>
-#6 0x560a7d66a6a2 <unknown>
-#7 0x560a7d66b491 <unknown>
-#8 0x560a7db80479 <unknown>
-#9 0x560a7db83391 <unknown>
-#10 0x560a7db6ca89 <unknown>
-#11 0x560a7db83f4e <unknown>
-#12 0x560a7db53070 <unknown>
-#13 0x560a7dba7ca8 <unknown>
-#14 0x560a7dba7e78 <unknown>
-#15 0x560a7dbb9828 <unknown>
-#16 0x7f85e249caa4 <unknown>
-#17 0x7f85e2529c6c <unknown>
+#0 0x55e62260ea4a <unknown>
+#1 0x55e6220276a2 <unknown>
+#2 0x55e62207ca8d <unknown>
+#3 0x55e62207ccd1 <unknown>
+#4 0x55e6220c85c4 <unknown>
+#5 0x55e6220c57f0 <unknown>
+#6 0x55e62206e8b2 <unknown>
+#7 0x55e62206f6a1 <unknown>
+#8 0x55e6225d48a9 <unknown>
+#9 0x55e6225d77b1 <unknown>
+#10 0x55e6225c0ea9 <unknown>
+#11 0x55e6225d836e <unknown>
+#12 0x55e6225a7410 <unknown>
+#13 0x55e6225fc0c8 <unknown>
+#14 0x55e6225fc29b <unknown>
+#15 0x55e62260ddb8 <unknown>
+#16 0x7f0f4829caa4 <unknown>
+#17 0x7f0f48329c6c <unknown>
