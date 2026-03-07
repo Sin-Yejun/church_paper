@@ -1,1 +1,21 @@
-http://mokposarang.org/files/attach/images/110756/155/247/4a7dca8a34719530673bcba9b284e968.jpg
+에러 발생: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[1]/div/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/article/div/p[3]/img[1]"}
+  (Session info: chrome=145.0.7632.116); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+#0 0x5622d2132b6a <unknown>
+#1 0x5622d1b45a32 <unknown>
+#2 0x5622d1b9ad66 <unknown>
+#3 0x5622d1b9afa1 <unknown>
+#4 0x5622d1be6144 <unknown>
+#5 0x5622d1be3369 <unknown>
+#6 0x5622d1b8cc0f <unknown>
+#7 0x5622d1b8d9d1 <unknown>
+#8 0x5622d20f76b9 <unknown>
+#9 0x5622d20fa5c1 <unknown>
+#10 0x5622d20e3e29 <unknown>
+#11 0x5622d20fb17e <unknown>
+#12 0x5622d20ca4b0 <unknown>
+#13 0x5622d211f578 <unknown>
+#14 0x5622d211f74b <unknown>
+#15 0x5622d21311a3 <unknown>
+#16 0x7fde23a9caa4 <unknown>
+#17 0x7fde23b29c6c <unknown>
